@@ -1,0 +1,14 @@
+{
+    "welcome": "Welcome to our app!",
+    "description": "This app demonstrates localization.",
+    "Login": "Login",
+    "Signup": "Signup",
+    "Back to Home": "Back to Home",
+    "createAnAccount": "Create an Account",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "tnc": "By creating an acont you agree to the Terms and Conditions & Privacy Policy",
+    "welcomeBack": "Welcome back"
+  }
